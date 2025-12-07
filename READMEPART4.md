@@ -94,5 +94,5 @@ Name: Fatime Dadi Wardougou
 
 Student ID: 25858
 
-Group: MON
+Group: MONDAY
 
